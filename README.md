@@ -8,3 +8,5 @@ Run in node:
 
 We will get a runtime error:
 `TypeError: jsModules_1.MyModuleObject.method is not a function`
+
+Why doesn't Typescript show a compile time error?

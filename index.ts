@@ -1,6 +1,6 @@
 import { MyModuleObject } from './jsModules';
 
-console.log(MyModuleObject.bean());
+console.log(MyModuleObject.method());
 
 // Basic Types
 let isDone: boolean = false;
